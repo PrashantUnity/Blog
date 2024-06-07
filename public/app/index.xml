@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apps on My New Hugo Site</title>
+    <link>http://localhost:1313/app/</link>
+    <description>Recent content in Apps on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Jun 2024 14:50:37 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Challenge</title>
+      <link>http://localhost:1313/app/challenge/</link>
+      <pubDate>Fri, 07 Jun 2024 14:50:37 +0530</pubDate>
+      <guid>http://localhost:1313/app/challenge/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
